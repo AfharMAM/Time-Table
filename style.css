@@ -1,0 +1,36 @@
+table, th, td{
+    border: 1px solid white;
+    border-collapse: collapse;
+    
+}
+table tr#row{
+    border: 7px solid rgb(225, 237, 252);
+    border-collapse: inherit;
+}
+td{
+    padding: 15px;
+}
+table th{
+    background-color: rgb(212, 223, 238);
+    height:"30"; 
+    width:"110";
+
+}
+table td#cell1{
+    background-color: rgb(49, 115, 238);
+}
+table td#cell2{
+    background-color: rgb(67, 133, 6);
+}
+table td#cell3{
+    background-color: rgb(168, 6, 168);
+}
+table td#cell4{
+    background-color:rgb(70, 178, 245);
+}
+table td#cell5{
+    background-color:rgb(243, 152, 14);
+}
+table td#cell6{
+    background-color: rgb(143, 250, 143);
+}
